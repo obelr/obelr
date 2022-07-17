@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Robel Debebe
 #### A passionate Software Engineer.
-![A passionate Software Engineer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A passionate Software Engineer.]![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 I'm a Mobile & web developer, a UI/UX designer. I build functional website and application, 
 
