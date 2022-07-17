@@ -45,3 +45,21 @@ Name | Badges
 
 
  <br>
+
+## Stats.
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obelr&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=obelr&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Robel Debebe's github stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obelr&theme=dark" alt="obelr" /></p>
+<br/>
+ <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
+
+
+> <a href="https://github.com/obelr/github-readme-activity-graph"><img alt="obelr' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=obelr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
+<!---
+obelr/obelr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
