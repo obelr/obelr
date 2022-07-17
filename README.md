@@ -35,3 +35,13 @@ Name | Badges
 </p> 
 
 <hr>
+
+## ❤ Views and Followers.
+
+<a href="https://github.com/obelr/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=obelr">
+</a>
+<a href="https://github.com/obler?tab=followers"><img src="https://img.shields.io/github/followers/obelr?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+ <br>
