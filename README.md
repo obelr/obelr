@@ -1,8 +1,9 @@
-### Hi there 👋, my name is Robel Debebe
-#### A passionate Software Engineer.
-![A passionate Software Engineer.]![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-I'm a Mobile & web developer, a UI/UX designer. I build functional website and application, 
+![MasterHead]![A passionate Software Engineer.]![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+<h1 align="center">Hi 👋, I'm Tolulope Fakunle </h1>
+<h3 align="center">A passionate Software Engineer.</h3>
+<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 Skills:  REACT / Flutter/ JS / HTML / CSS / ASP.NET CORE / WordPress / 
 
