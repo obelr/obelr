@@ -50,7 +50,7 @@ Name | Badges
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolulope05&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolulope05&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Robel Debebe's github stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obelr&theme=dark" alt="obelr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tolulope05&theme=dark" alt="obelr" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
