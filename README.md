@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Robel Debebe </h1>
-<h3 align="center">A passionate Software Engineer.</h3>
-<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+### Hi there 👋, my name is Robel Debebe
+#### A passionate Software Engineer.
+![A passionate Software Engineer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**obelr/obelr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mobile & web developer, a UI/UX designer. I build functional website and application, 
 
-Here are some ideas to get you started:
+Skills:  REACT / Flutter/ JS / HTML / CSS / ASP.NET CORE / WordPress / 
 
 - 🔭 I’m currently working on **Projects in React and Flutter **
 - 🌱 I’m currently learning **Asp.Net Core & Dart **
@@ -15,35 +14,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **debebe.robel@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **I'm a student of the ALX Software Engineering and data analytics**
--->
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robel-debebe-607187125/)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r03e1/)
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/obelr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/robel-debebe-607187125//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/r03e1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@robel_debebe)  
 
-### 🛠 Tools and Framework
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-Name | Badges
---- | --- 
-**Design**  | ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-**Languages**  |  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-**Frameworks, Platforms and Libraries** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-**Databases**  | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-**CI/CD & Hosting**   | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-</p> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obelr)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=obelr&show_icons=true)  
 
-## ❤ Views and Followers.
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=obelr)  
 
-<a href="https://github.com/obelr/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=obelr">
-</a>
-<a href="https://github.com/obler?tab=followers"><img src="https://img.shields.io/github/followers/obelr?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
- <br>
-
-
+![Profile views](https://gpvc.arturio.dev/obelr)  
