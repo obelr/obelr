@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Software Engineer.</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-- 🔭 I’m currently working on **Projects in React and Flutter **
-- 🌱 I’m currently learning **Asp.Net Core & Dart **
+- 🔭 I’m currently working on **Projects in Android Java | WordPress | React and Flutter **
+- 🌱 I’m currently learning **Asp.Net Core 6 & Dart **
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about **Web and Mobile App Dev**
+- 💬 Ask me about **Web and Mobile App Developer **
 - 📫 How to reach me: **debebe.robel@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **I'm a student of the ALX Software Engineering and data analytics**
