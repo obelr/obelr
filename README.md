@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer.</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-- 🔭 I’m currently working on **Projects in Android Java | WordPress | React and Flutter **
+- 🔭 I’m currently working on **Projects in Next Js | React and Flutter **
 - 🌱 I’m currently learning **Asp.Net Core 6 & Dart **
 - 💬 Ask me about **Web and Mobile App Developer **
 - 📫 How to reach me: **debebe.robel@gmail.com**
