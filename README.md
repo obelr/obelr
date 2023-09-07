@@ -4,10 +4,9 @@
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 - 🔭 I’m currently working on **Projects in Next Js | React and Flutter **
-- 🌱 I’m currently learning **Asp.Net Core 6 & Dart **
-- 💬 Ask me about **Web and Mobile App Developer **
+- 🌱 Interested on **.Net Core 6 & laravel **
+- 💬 Ask me about **Web| Mobile and API Services **
 - 📫 How to reach me: **debebe.robel@gmail.com**
-- ⚡ Fun fact: **I'm a student of the ALX Software Engineering and data analytics**
 ### 🛠 Tools and Framework
 
 Name | Badges
